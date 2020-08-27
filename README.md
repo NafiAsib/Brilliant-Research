@@ -18,6 +18,7 @@
   - [arasel mir](https://github.com/araselmir/PostgreSQL)
   - [Nissan Devnath](https://github.com/nissan997/PostgreSQL-Cheat-Sheet)
   - [Foyez Ahammed Sharif Plaban](https://github.com/mechano59/PostgreSQL/)
+  - [Nafi Asib](https://github.com/NafiAsib/cloud/tree/master/postgresql)
 
 
 ### Redis Documentation
@@ -26,6 +27,8 @@
   - [arasel mir](https://github.com/araselmir/redis)
 
   - [Shafin Hasnat](https://github.com/shafinhasnat/REDIS-made-easy)
+
+  - [Nafi Asib](https://github.com/NafiAsib/cloud/tree/master/redis)
 
 
 
